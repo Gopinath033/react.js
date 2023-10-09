@@ -1,0 +1,16 @@
+$primaryColor: grey;
+$secondaryColor: green;
+
+.plant{
+    background-color: bisque;
+
+    .text{
+        color: $primaryColor;
+    }
+
+    .logo{
+        color: $secondaryColor;
+    }
+}
+
+
